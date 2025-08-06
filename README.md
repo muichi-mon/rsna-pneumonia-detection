@@ -108,6 +108,8 @@ This project is intended **for educational and research purposes only**. It is *
 
 ## 🙏 Acknowledgements
 
-- [RSNA](https://www.rsna.org/) and [SIIM](https://siim.org/)
-- Kaggle for hosting the challenge
-- Public contributors and research communities in medical imaging
+- [RSNA](https://www.rsna.org/) and [SIIM](https://siim.org/) for advancing research and education in medical imaging  
+- [Kaggle](https://www.kaggle.com/) for hosting the RSNA medical imaging challenges  
+- Udemy course **“Deep Learning with PyTorch for Medical Image Analysis”** by **Jose Portilla**, **Marcel Früh**, **Sergios Gatidis**, and **Tobias Hepp**, for hands‑on training in applying deep learning to medical imaging, including DICOM/NIfTI data handling, tumor segmentation, and interpretability 
+- Public contributors, open‑source developers, and the research community driving innovation in radiology AI  
+- All patients and institutions that contributed anonymized data for public use  
