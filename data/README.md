@@ -38,10 +38,12 @@ Place the files in the `data/` folder as follows:
 
 ```
 data/
-├── stage_2_train_images/             # Unzipped DICOM images
+├── stage_2_test_images/  
+├── stage_2_train_images/
+├── GCP Credits Request Link - RSNA.txt  
 ├── stage_2_train_labels.csv
 ├── stage_2_detailed_class_info.csv
-└── sample_submission.csv
+└── stage_2_sample_submission.csv
 ```
 
 > 📝 Ensure that the folder is unzipped into its own folder containing all `.dcm` files (DICOM format).
