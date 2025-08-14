@@ -37,6 +37,7 @@ rsna-pneumonia-detection/
 ├── notebooks/
 │   └── preprocessing.ipynb              # Jupyter notebook for preprocessing stage
 │   └── pneumonia_detection.ipynb        # Jupyter notebook for training and evaluation
+│   └── interpretability.ipynb           # Jupyter notebook for interpretability of model
 │
 ├── data/
 │   └── README.md                        # Instructions for setting up the dataset
